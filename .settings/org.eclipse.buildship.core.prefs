@@ -1,11 +1,11 @@
 arguments=
 auto.sync=true
 build.scans.enabled=false
-connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.4.2))
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.5.1))
 connection.project.dir=
 eclipse.preferences.version=1
 gradle.user.home=
-java.home=D\:/Program Files/Eclipse Adoptium/jdk-17.0.1.12-hotspot
+java.home=C\:/Program Files/Eclipse Adoptium/jdk-17.0.3.7-hotspot
 jvm.arguments=
 offline.mode=false
 override.workspace.settings=true
